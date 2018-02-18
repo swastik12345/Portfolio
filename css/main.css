@@ -173,7 +173,7 @@
 
 }
 .bg-skill{
-    background-image: url("../images/banner.jpg");
+
     font-size: 50px;
     width: 100%;
     background-size: cover;
@@ -218,6 +218,7 @@
     text-align: left;
     color: whitesmoke;
 }
+
 
 .html {width: 90%; background-color: #2196F3;}
 .css {width: 80%; background-color: #2196F3;}
